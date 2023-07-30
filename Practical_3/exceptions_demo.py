@@ -5,7 +5,7 @@ Answer the following questions:
     numerator or denominator not an integrity
 
 2. When will a ZeroDivisionError occur?
-    denominator = 0
+    denominator = 0,
 
 3. Could you change the code to avoid the possibility of a ZeroDivisionError?
     yes
